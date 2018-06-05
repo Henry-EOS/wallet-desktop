@@ -18,7 +18,7 @@
   },
   "build": {
     "productName": "eosforcewallet",
-    "appId": "org.simulatedgreg.electron-vue",
+    "appId": "",
     "directories": {
       "output": "build"
     },
